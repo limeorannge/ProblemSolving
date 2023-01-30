@@ -7,7 +7,7 @@ Language preferences: C++, Python, and Java.<br>
 
 ## Codeforces
 
-![![![CodeForces Profile](https://cf.leed.at?id=Saycorn)](https://codeforces.com/profile/Saycorn)
+![![CodeForces Profile](https://cf.leed.at?id=Saycorn)](https://codeforces.com/profile/Saycorn)
 
 ## Atcoder
 
